@@ -14,7 +14,7 @@ const SpotifySection = () => {
         <div className="w-full md:w-1/2">
           <h3 className="text-2xl font-bold mb-4">La Playlist Oficial de Gare7e</h3>
           <p className="text-muted-foreground mb-6">
-            Revive los mejores clásicos del reggaeton viejo con nuestra playlist oficial. Desde Daddy Yankee hasta Don
+            Reviví los mejores clásicos del reggaeton viejo con nuestra playlist oficial. Desde Daddy Yankee hasta Don
             Omar, pasando por Wisin & Yandel y Tego Calderón.
           </p>
           <div className="flex flex-col space-y-4">
@@ -26,7 +26,7 @@ const SpotifySection = () => {
               Abrir en Spotify
             </Button>
             <iframe
-              src="https://open.spotify.com/embed/playlist/37i9dQZF1DXbSbnqxMTGx9"
+              src="https://open.spotify.com/embed/playlist/3z0zQdiFbPdiZ1I7xRpqPx?si=7ae0380644124eba"
               width="100%"
               height="380"
               frameBorder="0"

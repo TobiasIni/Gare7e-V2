@@ -9,7 +9,7 @@ const Hero = () => {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: "url('/placeholder.svg?height=1080&width=1920')",
+          backgroundImage: "url('/bannerGarete.png')",
           filter: "brightness(0.3)",
         }}
       />
@@ -22,8 +22,7 @@ const Hero = () => {
         </h1>
 
         <p className="text-lg md:text-xl text-white/90 max-w-2xl mx-auto">
-          Revive los clásicos del reggaeton que marcaron una época. La fiesta con la mejor selección de hits del
-          reggaeton old school.
+          El reggaeton viejo no murió, está vivo y de vuelta.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 mt-6">
@@ -35,7 +34,7 @@ const Hero = () => {
           </Button>
 
           <Button asChild variant="outline" size="lg" className="text-base">
-            <Link href="#spotify">Escuchar Playlist</Link>
+            <Link href="#spotify">Escucha nuestra Playlist</Link>
           </Button>
         </div>
       </div>

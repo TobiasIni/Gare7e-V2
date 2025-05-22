@@ -36,10 +36,8 @@ export default function QuienesSomosPage() {
           <p>Detrás de Gare7e hay un equipo de profesionales apasionados por la música y el entretenimiento:</p>
 
           <ul>
-            <li>DJ Kronno - Fundador y DJ principal</li>
+            <li>Leonardo Olivera</li>
             <li>Laura Gómez - Directora de eventos</li>
-            <li>Carlos Martínez - Relaciones públicas</li>
-            <li>Elena Sánchez - Marketing digital</li>
             <li>Y un equipo de colaboradores que hacen posible cada evento</li>
           </ul>
 

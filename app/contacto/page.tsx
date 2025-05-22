@@ -27,7 +27,7 @@ export default function ContactoPage() {
                 </div>
                 <div>
                   <h3 className="font-medium">Teléfono</h3>
-                  <p className="text-sm text-muted-foreground">+34 600 00 00 00</p>
+                  <p className="text-sm text-muted-foreground">+5411 00 00 00</p>
                 </div>
               </div>
 
@@ -37,7 +37,7 @@ export default function ContactoPage() {
                 </div>
                 <div>
                   <h3 className="font-medium">Email</h3>
-                  <p className="text-sm text-muted-foreground">info@gare7e.com</p>
+                  <p className="text-sm text-muted-foreground">contact@gare7e.com</p>
                 </div>
               </div>
 
@@ -47,7 +47,7 @@ export default function ContactoPage() {
                 </div>
                 <div>
                   <h3 className="font-medium">Dirección</h3>
-                  <p className="text-sm text-muted-foreground">Calle Principal 123, Madrid, España</p>
+                  <p className="text-sm text-muted-foreground">Lugano, Capital Federal, Argentina</p>
                 </div>
               </div>
             </CardContent>
@@ -61,15 +61,15 @@ export default function ContactoPage() {
               <div className="space-y-2">
                 <div className="flex justify-between">
                   <span className="font-medium">Lunes - Viernes</span>
-                  <span>10:00 - 18:00</span>
+                  <span>23:00 - 4:00 AM</span>
                 </div>
                 <div className="flex justify-between">
                   <span className="font-medium">Sábado</span>
-                  <span>12:00 - 16:00</span>
+                  <span>23:00 - 7:00 AM</span>
                 </div>
                 <div className="flex justify-between">
                   <span className="font-medium">Domingo</span>
-                  <span>Cerrado</span>
+                  <span>23:00 - 7:00 AM</span>
                 </div>
               </div>
             </CardContent>
@@ -119,7 +119,7 @@ export default function ContactoPage() {
                   <label htmlFor="message" className="text-sm font-medium">
                     Mensaje
                   </label>
-                  <Textarea id="message" placeholder="Escribe tu mensaje aquí..." rows={8} />
+                  <Textarea id="message" placeholder="Escribí tu mensaje acá..." rows={8} />
                 </div>
 
                 <Button type="submit" className="w-full">
@@ -139,13 +139,13 @@ export default function ContactoPage() {
                 <div>
                   <h3 className="font-medium">¿Cómo puedo comprar entradas?</h3>
                   <p className="text-sm text-muted-foreground">
-                    Puedes comprar entradas para nuestros eventos a través de nuestra web en la sección de eventos.
+                    Podes comprar entradas para nuestras fiestas a través de nuestra web en la sección compra tus entradas.
                   </p>
                 </div>
                 <div>
-                  <h3 className="font-medium">¿Hacéis eventos privados?</h3>
+                  <h3 className="font-medium">¿Puedo ser sponsor de Gare7e?</h3>
                   <p className="text-sm text-muted-foreground">
-                    Sí, organizamos eventos privados. Contáctanos para más información.
+                    Sí, contactanos para más información.
                   </p>
                 </div>
                 <div>
