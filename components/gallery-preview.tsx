@@ -4,7 +4,7 @@ import { ArrowRight } from "lucide-react"
 
 const GalleryPreview = () => {
   // Dummy images for preview
-  const images = Array.from({ length: 6 }, (_, i) => ({
+  const images = Array.from({ length: 3 }, (_, i) => ({
     id: i + 1,
     src: `/placeholder.svg?height=400&width=600`,
     alt: `Evento Gare7e ${i + 1}`,
